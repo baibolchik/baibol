@@ -1,0 +1,43 @@
+h2{
+    color: red;
+    text-align: center;
+}
+#ol1{
+    color: red;
+    font-size: 12px;
+    font-weight:bolder;
+}
+#ol2{
+    color: blue;
+    font-size:12px;
+}
+li{
+    color: red;
+}
+h1{
+    color: green;
+}
+#spa{
+    color: red;
+}
+#spa1{
+    color: red;
+}
+h3{
+    color: green;
+}
+.scrip{
+    color: blue;
+}
+.gray{
+    color: gray;
+    font-style: italic;
+}
+.gray1{
+    color: gray;
+    font-style: italic;
+
+}
+.red{
+    color: red;
+}
